@@ -4,6 +4,7 @@ import './Home.css';
 import HeroSection from '../../components/HeroSection';
 import Search from "./Search";
 import SearchBar from "./SearchBar";
+import Footer from '../../components/Footer';
 
 const Home = () => {
   return (
@@ -13,7 +14,7 @@ const Home = () => {
         <Search />
         <SearchBar/>
       </div>
-      
+      <Footer/>
       
     </React.Fragment>
   )
