@@ -2,7 +2,7 @@
     --theme-color: rgb(69, 136, 203);
     --theme-color-hover: rgb(calc(69*5/6), calc(136*5/6), calc(203*5/6));
 }
-.container {
+.my-container {
     width: 100%;
     /* height: 200px; */
     display: flex;

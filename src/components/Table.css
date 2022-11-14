@@ -1,0 +1,14 @@
+tbody>tr:nth-child(odd){
+    background: #eee;
+}
+tbody>tr:hover{
+    background: #ddd;
+}
+td {
+    text-align: center;
+}
+.header {
+    /* border: 1px red solid; */
+    font-size: 2em;
+    margin-bottom: 2%;
+}

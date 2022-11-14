@@ -18,7 +18,7 @@ const SearchBar = () => {
   return (
     <React.Fragment>
 
-      <div className="container">
+      <div className="my-container">
           <div className="search-bar">
               <div className={`select`} onClick={toggleDropdown}>
                   <p>{selected}</p>

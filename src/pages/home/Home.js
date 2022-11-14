@@ -5,6 +5,7 @@ import HeroSection from '../../components/HeroSection';
 import Search from "./Search";
 import SearchBar from "./SearchBar";
 import Footer from '../../components/Footer';
+import SearchResults from './SearchResults';
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <div className="wave-seperator">
         <Search />
         <SearchBar/>
+        <SearchResults/>
       </div>
       <Footer/>
       

@@ -1,0 +1,10 @@
+.details-card{
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0,0,0,0.25);
+    background-color: white;
+    color:#444444;
+    margin: auto;
+    /* border: 1px white solid; */
+    padding: 20px;
+    /* flex:1; */
+}
